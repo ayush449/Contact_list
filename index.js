@@ -23,7 +23,7 @@ var contactList = [
         phone: "1234567890"
     },
     {
-        name: "Coding Ninjas",
+        name: "Coding",
         phone: "12131321321"
     }
 ]
